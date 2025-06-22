@@ -1,0 +1,7 @@
+sentence-transformers       # embeddings
+faiss-cpu                   # vector store
+pydantic
+mlflow                      # experiment tracking
+google-genai
+streamlit
+uvicorn
